@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(255, 47, 182);
+}
+h1 {
+    text-align: center;
+   
+   color: black;
+  }
+  h2 {
+    text-align: center;
+   
+   color: black;
+  }
+  img{
+    width: 163px;
+    height: 200px;
+  }
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
